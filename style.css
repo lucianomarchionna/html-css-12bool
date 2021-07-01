@@ -5,7 +5,8 @@
 }
 
 .box,
-.box-nested{
+.box-nested,
+.box-double{
     min-height: 50px;
     background-color: #006cfa;
     border: 1px solid white;
@@ -21,4 +22,8 @@
 
 .margin-bottom{
     margin-bottom: 20px;
+}
+
+.box-double{
+    min-height: 100px;
 }

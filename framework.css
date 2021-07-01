@@ -48,3 +48,15 @@
 .col-xs-offset-10{margin-left: calc((100% / 12)* 10);}
 .col-xs-offset-11{margin-left: calc((100% / 12)* 11);}
 .col-xs-offset-12{margin-left: calc((100% / 12)* 12);}
+
+/* Bonus */
+
+/* Aligment */
+.start-xs {justify-content: flex-start; text-align: start; }
+.center-xs {justify-content: center; text-align: center; }
+.end-xs {justify-content: flex-end; text-align: end; }
+
+.top-xs { align-items: flex-start; }
+.middle-xs { align-items: center; }
+.bottom-xs { align-items: flex-end; }
+
